@@ -12,8 +12,8 @@ function NavBar() {
         <a href="#projects" className="font-work-sans mx-8 text-vermelho hover:bg-vermelho hover:text-white hover: p-2 hover:rounded-lg">
           Projetos
         </a>
-        <a href="#footer" className="font-work-sans mx-8 text-vermelho hover:bg-vermelho hover:text-white hover: p-2 hover:rounded-lg">
-          Entre em contato
+        <a href="https://www.canva.com/design/DAFfDY79Ezw/qUXFTIuaw9UTAGSViAVZ-g/edit" className="font-work-sans mx-8 text-vermelho hover:bg-vermelho hover:text-white hover: p-2 hover:rounded-lg">
+          Cronograma
         </a>
       </nav>
     </header>
